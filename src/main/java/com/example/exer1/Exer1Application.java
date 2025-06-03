@@ -10,5 +10,4 @@ public class Exer1Application {
 		SpringApplication.run(Exer1Application.class, args);
 	}
 	//hello
-	//again
 }
